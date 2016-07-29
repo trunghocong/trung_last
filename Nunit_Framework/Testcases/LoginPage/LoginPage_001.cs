@@ -13,7 +13,7 @@ namespace Nunit_Framework.Testcases.LoginPage
             StartTest();
         }
 
-        [Test]
+        //[Test]
         public void TC001_LoginToJoomlaWithInValidAccount()
         {
             stepLogging("Login to joomla site with invalid account");

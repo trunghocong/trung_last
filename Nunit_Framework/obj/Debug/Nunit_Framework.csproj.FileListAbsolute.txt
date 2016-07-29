@@ -43,6 +43,5 @@ D:\Nunit_Git_TDD_Project\Nunit_Framework\bin\Debug\Newtonsoft.Json.xml
 D:\Nunit_Git_TDD_Project\Nunit_Framework\bin\Debug\nunit.framework.xml
 D:\Nunit_Git_TDD_Project\Nunit_Framework\bin\Debug\WebDriver.xml
 D:\Nunit_Git_TDD_Project\Nunit_Framework\bin\Debug\WebDriver.Support.xml
-D:\Nunit_Git_TDD_Project\Nunit_Framework\obj\Debug\Nunit_Framework.csprojResolveAssemblyReference.cache
 D:\Nunit_Git_TDD_Project\Nunit_Framework\obj\Debug\Nunit_Framework.dll
 D:\Nunit_Git_TDD_Project\Nunit_Framework\obj\Debug\Nunit_Framework.pdb

@@ -15,7 +15,7 @@ namespace Nunit_Framework.Testcases.Articles
             StartTest();
         }
 
-        [Test]
+        //[Test]
         public void TC003_CreateAnArticle()
         {
             stepLogging("1. Navigate to the URL: http://capability.demojoomla.com:81/administrator/index.php");
